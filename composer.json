@@ -1,12 +1,12 @@
 {
     "name": "mohitarek/fatiha",
-    "description": "Your package description here",
+    "description": "this is my test opackage",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your.email@example.com"
+            "name": "tarek",
+            "email": "mohuddintarek7955@gmail.com"
         }
     ],
     "require": {
@@ -24,5 +24,7 @@
             ]
         }
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "version": "1.0.0"
 }
