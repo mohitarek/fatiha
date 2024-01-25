@@ -1,0 +1,28 @@
+{
+    "name": "mohitarek/fatiha",
+    "description": "Your package description here",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your.email@example.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "mohitarek\\fatiha\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "mohitarek\\fatiha\\PostViewServiceProvider"
+            ]
+        }
+    },
+    "version": "1.0.0"
+}
