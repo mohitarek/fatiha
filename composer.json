@@ -1,5 +1,5 @@
 {
-    "name": "mohitarek/fatiha",
+    "name": "tk/fatiha",
     "description": "this is my test opackage",
     "type": "library",
     "license": "MIT",
@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "php": "^7.0"
+        "php": "^7.0",
+		"mohitarek/fatiha": "*"
     },
     "autoload": {
         "psr-4": {

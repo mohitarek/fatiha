@@ -1,6 +1,6 @@
 <?php
 
-use tk\tarek\Controllers\PostController;
+use tk\fatiha\Controllers\PostController;
 use Illuminate\Support\Facades\Route;
 
 Route::group(['namespace' => 'tk\tarek\Controllers'], function () {

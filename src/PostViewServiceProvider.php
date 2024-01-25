@@ -1,6 +1,6 @@
 <?php
 
-namespace mohitarek\fatiha;
+namespace tk\fatiha;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Route;

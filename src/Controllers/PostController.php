@@ -1,6 +1,6 @@
 <?php
 
-namespace tk\tarek\Controllers;
+namespace tk\fatiha\Controllers;
 
 use App\Http\Controllers\Controller;
 
